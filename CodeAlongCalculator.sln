@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAlongCalculator", "CodeAlongCalculator\CodeAlongCalculator.csproj", "{8E4E27E9-FFF3-4228-802F-528472B0A344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4E27E9-FFF3-4228-802F-528472B0A344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4E27E9-FFF3-4228-802F-528472B0A344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4E27E9-FFF3-4228-802F-528472B0A344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4E27E9-FFF3-4228-802F-528472B0A344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7D2B80-7398-4CB0-90A9-29D4A8B9DE36}
+	EndGlobalSection
+EndGlobal
